@@ -20,7 +20,6 @@ User {
     subscriber_counter,
     publishers
 }
-```
 
 Tag {
     tag_id
@@ -54,6 +53,7 @@ Comment {
     photo_id
     created_at
 }
+```
 
 
 Фото, які завантажують користувачі зберігаються в **Amazon S3**.
