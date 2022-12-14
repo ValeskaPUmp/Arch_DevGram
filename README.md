@@ -1,7 +1,7 @@
 ## Проект по курсу "Архітектура високонавантажених розподілених систем"
 
 ### Схема
-![Діаграма]()
+![Діаграма](https://github.com/ValeskaPUmp/Arch_DevGram/blob/main/Arch_DiaGram.drawio.png)
 
 ### Опис
 
